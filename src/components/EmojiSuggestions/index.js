@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { genKey } from 'draft-js';
-import { NimbleEmojiIndex } from 'emoji-mart';
+import { NimbleEmojiIndex } from 'emoji-mart/dist-es';
 import emojiData from 'emoji-mart/data/emojione.json';
 
 import Entry from './Entry';

@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import { getEmojiDataFromNative } from 'emoji-mart';
+import { getEmojiDataFromNative } from 'emoji-mart/dist-es';
 
 import NimbleEmoji from 'emoji-mart/dist-es/components/emoji/nimble-emoji';
 import data from 'emoji-mart/data/emojione.json';
